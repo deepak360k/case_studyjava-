@@ -71,7 +71,7 @@ Food Delivery
 ```text
 Food-Delivery-System/
 │
-├── FoodDeliverySystem.java
+├── food.java
 └── README.md
 ```
 
@@ -82,7 +82,7 @@ Food-Delivery-System/
 ### Step 1: Compile the program
 
 ```bash
-javac FoodDeliverySystem.java
+javac food.java
 ```
 
 ### Step 2: Run the program
